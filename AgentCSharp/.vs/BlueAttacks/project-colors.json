@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a02a617-188f-4ed9-8fbd-26666712d2a0": {
+      "ProjectGuid": "0a02a617-188f-4ed9-8fbd-26666712d2a0",
+      "DisplayName": "BlueAttacks",
+      "ColorIndex": 0
+    },
+    "c4166fe7-ccf5-4be0-a555-0054a1860ca5": {
+      "ProjectGuid": "c4166fe7-ccf5-4be0-a555-0054a1860ca5",
+      "DisplayName": "BlueAttackCSharp",
+      "ColorIndex": 1
+    },
+    "a769283b-0e6f-4dc2-ba8d-47777183b0b1": {
+      "ProjectGuid": "a769283b-0e6f-4dc2-ba8d-47777183b0b1",
+      "DisplayName": "WinFormsApp1",
+      "ColorIndex": 2
+    },
+    "702cad53-8ed3-4dd5-bed8-1369f9769631": {
+      "ProjectGuid": "702cad53-8ed3-4dd5-bed8-1369f9769631",
+      "DisplayName": "WindowsApp1",
+      "ColorIndex": 3
+    },
+    "e2cf3558-02cf-477c-a087-2089a644435a": {
+      "ProjectGuid": "e2cf3558-02cf-477c-a087-2089a644435a",
+      "DisplayName": "Agent",
+      "ColorIndex": 4
+    },
+    "7c61e2e8-b5d5-4368-8913-8370434bd22d": {
+      "ProjectGuid": "7c61e2e8-b5d5-4368-8913-8370434bd22d",
+      "DisplayName": "Agent",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

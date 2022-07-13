@@ -1,0 +1,5 @@
+C:\blue\BlueAttacks.exe
+C:\blue\BlueAttacks.dll
+C:\blue\BlueAttacks.deps.json
+C:\blue\BlueAttacks.runtimeconfig.json
+C:\blue\BlueAttacks.pdb

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "BFaM781QwwDytDAmEJ7PCcxe4k5RXn0Vwn7okOcq5ShDbWVx6w1GGpmU0OACb+OmL3a3sG0HGOMKnqkohMikcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aaryan\\Downloads\\agent_code\\project\\BlueAttacks\\BlueAttacks.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aaryan\\.nuget\\packages\\core.system.configuration.install\\1.1.0\\core.system.configuration.install.1.1.0.nupkg.sha512",
+    "C:\\Users\\Aaryan\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Aaryan\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Aaryan\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Aaryan\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Aaryan\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\Aaryan\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\Aaryan\\.nuget\\packages\\system.diagnostics.performancecounter\\4.7.0\\system.diagnostics.performancecounter.4.7.0.nupkg.sha512",
+    "C:\\Users\\Aaryan\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\Aaryan\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Aaryan\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\Aaryan\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\Aaryan\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\Aaryan\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
